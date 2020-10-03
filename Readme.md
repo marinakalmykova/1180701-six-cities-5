@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Marina Kalmykova](https://up.htmlacademy.ru/react/5/user/1180701).
-* Наставник: `Неизвестно`.
+* Наставник: `Кекс`.
 
 ---
 
